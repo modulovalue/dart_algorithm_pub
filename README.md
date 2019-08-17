@@ -1,4 +1,4 @@
-#Dart Algorithm Pub
+# Dart Algorithm Pub
 Here you'll find a collection of useful and interesting algorithms and data structures in [Dart](https://dart.dev) & [Flutter](http://flutter.dev).
 
 ## Trees
@@ -35,10 +35,10 @@ Here you'll find a collection of useful and interesting algorithms and data stru
  
 ## Other
  
-#### [Cassowary](https://en.wikipedia.org/wiki/Cassowary_(software)
+#### [Cassowary](https://en.wikipedia.org/wiki/Cassowary_(software))
  - [cassowary](https://pub.dev/packages/cassowary)
  
-##Contributing
+## Contributing
 Feel free to add any algorithm or data structure with an implementation (preferably as a package on [pub.dev](https://pub.dev)).
 
 To the extent possible under law, modulovalue has waived all copyright and related or neighboring rights to this work.
